@@ -1,7 +1,12 @@
 # Getting Started with Venues with Coordinates
 
-To run the project clearly first of all you need to run
+### Have a valid ID from FourSquareAPI
 
+https://developer.foursquare.com/
+
+Change the Client Id and Client Scret in the code(App.js)
+
+To run the project clearly first of all you need
 ### `yarn install` or  `npm install`
 
 
