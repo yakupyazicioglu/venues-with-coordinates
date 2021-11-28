@@ -10,7 +10,7 @@ var foursquare = require("react-foursquare")({
 
 function App() {
   const [lat, setLat] = useState(0);
-  const [lng, setLng] = useState(0);
+ // const [lng, setLng] = useState(0);
   const [venues, setVenues] = useState([]);
 
   useEffect(() => {
