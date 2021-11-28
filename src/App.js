@@ -4,7 +4,7 @@ import "bulma/css/bulma.css";
 import "./App.css";
 
 var foursquare = require("react-foursquare")({
-  clientID: "32GCNLUZ0KGFSX2MMXJMQGPLUBW21QQ1-----XXXXXXXX",
+  //clientID: "32GCNLUZ0KGFSX2MMXJMQGPLUBW21QQ1-----XXXXXXXX",
   clientSecret: "XWK2LKKRBJ0Z3RNETSNK-----XXXX",
 });
 
